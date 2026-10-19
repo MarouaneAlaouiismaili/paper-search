@@ -1,3 +1,5 @@
+![Paper Search banner](assets/paper-search-banner.svg)
+
 # Paper Search
 
 **A transparent command-line research tool for academic literature and the public web.**
