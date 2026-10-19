@@ -1,0 +1,42 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1280" height="360" viewBox="0 0 1280 360" role="img" aria-labelledby="title desc">
+  <title id="title">Paper Search</title>
+  <desc id="desc">Research across academic literature and the public web, with evidence you can trace.</desc>
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#081321"/><stop offset="1" stop-color="#131a35"/></linearGradient>
+    <linearGradient id="glow" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#35d7d0"/><stop offset="1" stop-color="#8b7cff"/></linearGradient>
+    <linearGradient id="paper" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#f8fafc"/><stop offset="1" stop-color="#cbd5e1"/></linearGradient>
+    <pattern id="grid" width="32" height="32" patternUnits="userSpaceOnUse"><path d="M32 0H0V32" fill="none" stroke="#a5b4fc" stroke-opacity=".07"/></pattern>
+  </defs>
+  <rect width="1280" height="360" rx="28" fill="url(#bg)"/>
+  <rect width="1280" height="360" rx="28" fill="url(#grid)"/>
+  <circle cx="1010" cy="166" r="220" fill="#635bff" opacity=".11"/>
+  <circle cx="1030" cy="166" r="153" fill="#36d7d0" opacity=".09"/>
+  <path d="M0 300 C260 260 420 405 710 312 S1070 255 1280 300" fill="none" stroke="url(#glow)" stroke-opacity=".32" stroke-width="2"/>
+  <rect x="76" y="61" width="210" height="34" rx="17" fill="#15263b" stroke="#3bd3cb" stroke-opacity=".45"/>
+  <circle cx="96" cy="78" r="5" fill="#49ded3"/>
+  <text x="111" y="84" fill="#bdeeea" font-family="Inter, ui-sans-serif, system-ui, sans-serif" font-size="13" font-weight="700" letter-spacing="2">ACADEMIC + WEB RESEARCH</text>
+  <text x="76" y="166" fill="#f8fafc" font-family="Inter, ui-sans-serif, system-ui, sans-serif" font-size="54" font-weight="750" letter-spacing="-1.5">Paper Search</text>
+  <text x="79" y="211" fill="#cbd5e1" font-family="Inter, ui-sans-serif, system-ui, sans-serif" font-size="23" font-weight="450">Find the work. Follow the evidence.</text>
+  <text x="79" y="281" fill="#94a3b8" font-family="Inter, ui-sans-serif, system-ui, sans-serif" font-size="14" font-weight="600" letter-spacing=".4">CROSS-SOURCE DISCOVERY</text>
+  <circle cx="260" cy="276" r="3" fill="#4fdad1"/>
+  <text x="278" y="281" fill="#94a3b8" font-family="Inter, ui-sans-serif, system-ui, sans-serif" font-size="14" font-weight="600" letter-spacing=".4">TRACEABLE RESULTS</text>
+  <g transform="translate(842 54)">
+    <rect x="99" y="22" width="163" height="211" rx="16" fill="#101b30" stroke="#65719a" stroke-opacity=".5" transform="rotate(9 180 127)"/>
+    <rect x="52" y="8" width="163" height="211" rx="16" fill="#18233b" stroke="#7a88b5" stroke-opacity=".55" transform="rotate(-7 133 113)"/>
+    <rect x="75" y="34" width="163" height="211" rx="16" fill="url(#paper)"/>
+    <rect x="96" y="57" width="57" height="7" rx="3.5" fill="#27bdb6"/>
+    <rect x="96" y="80" width="116" height="6" rx="3" fill="#66758b" opacity=".65"/>
+    <rect x="96" y="96" width="102" height="6" rx="3" fill="#66758b" opacity=".45"/>
+    <rect x="96" y="124" width="122" height="42" rx="8" fill="#dce7ef"/>
+    <circle cx="111" cy="145" r="7" fill="#27bdb6"/>
+    <rect x="126" y="139" width="74" height="5" rx="2.5" fill="#53647a" opacity=".7"/>
+    <rect x="126" y="150" width="59" height="5" rx="2.5" fill="#53647a" opacity=".45"/>
+    <rect x="96" y="180" width="115" height="6" rx="3" fill="#66758b" opacity=".48"/>
+    <circle cx="236" cy="192" r="57" fill="#111b31" stroke="url(#glow)" stroke-width="8"/>
+    <path d="M277 234l43 43" stroke="#a7b6d2" stroke-width="16" stroke-linecap="round"/>
+    <circle cx="236" cy="192" r="39" fill="#15243b" opacity=".94"/>
+    <circle cx="218" cy="177" r="4" fill="#48dad2"/><circle cx="247" cy="162" r="4" fill="#a095ff"/><circle cx="255" cy="202" r="4" fill="#48dad2"/>
+    <path d="M222 175l21-11m-22 16l31 20m-5-34l8 32" stroke="#7e91b7" stroke-width="2" opacity=".8"/>
+  </g>
+  <text x="1205" y="326" text-anchor="end" fill="#64748b" font-family="Inter, ui-sans-serif, system-ui, sans-serif" font-size="12" font-weight="600" letter-spacing="1.5">PAPER SEARCH</text>
+</svg>
