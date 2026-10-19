@@ -1,0 +1,29 @@
+[build-system]
+requires = ["setuptools>=68", "wheel"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "paper-search"
+version = "0.1.0"
+description = "CLI for searching academic sources and the public web"
+readme = "README.md"
+requires-python = ">=3.9"
+dependencies = ["curl-cffi>=0.7"]
+
+classifiers = [
+    "Environment :: Console",
+    "Intended Audience :: Science/Research",
+    "Programming Language :: Python :: 3",
+    "Programming Language :: Python :: 3 :: 3.9",
+    "Programming Language :: Python :: 3 :: 3.10",
+    "Programming Language :: Python :: 3 :: 3.11",
+    "Programming Language :: Python :: 3 :: 3.12",
+    "Programming Language :: Python :: 3 :: 3.13",
+    "Programming Language :: Python :: 3 :: 3.14",
+]
+
+[project.scripts]
+paper-search = "paper_search.cli:main"
+
+[tool.setuptools.packages.find]
+include = ["paper_search*"]
