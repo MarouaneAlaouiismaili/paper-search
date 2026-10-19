@@ -1,6 +1,4 @@
-![Paper Search banner](assets/paper-search-banner.svg)
-
-# Paper Search
+![Paper Search banner](assets/paper-search-banner.svg)[![Tests](https://github.com/MarouaneAlaouiismaili/paper-search/actions/workflows/tests.yml/badge.svg?branch=main)](https://github.com/MarouaneAlaouiismaili/paper-search/actions/workflows/tests.yml)
 
 **A transparent command-line research tool for academic literature and the public web.**
 
